@@ -1,0 +1,45 @@
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+button {
+    cursor: pointer;
+}
+.menu-link {
+font-family: 'Open Sans', 'Raleway', sans-serif;
+font-weight: 600;
+font-size: 12px;
+line-height: 1,33;
+letter-spacing: 0.1em;}
+
+.menu-link:hover
+.menu-link:focus {
+    color: #FF6C00;
+}
+
+.contact-phone-number {
+font-family: 'Open Sans' sans-serif;
+font-weight: 600;
+font-size: 12px;
+line-height: 1,33;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+/* color: #FFFFFF; */
+
+}
+.modal-btn {
+    font-family: 'Open Sans' sans-serif;
+font-weight: 600;
+font-size: 12px;
+line-height: 1,33;
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+/* color: #FFFFFF; */
+}
